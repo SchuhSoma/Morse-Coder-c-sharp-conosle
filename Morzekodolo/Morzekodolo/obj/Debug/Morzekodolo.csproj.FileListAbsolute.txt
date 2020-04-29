@@ -1,0 +1,7 @@
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\obj\Debug\Morzekodolo.csprojAssemblyReference.cache
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\obj\Debug\Morzekodolo.csproj.CoreCompileInputs.cache
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\bin\Debug\Morzekodolo.exe.config
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\bin\Debug\Morzekodolo.exe
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\bin\Debug\Morzekodolo.pdb
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\obj\Debug\Morzekodolo.exe
+C:\Users\Soma\Documents\C#2\Morzekodolo\Morzekodolo\obj\Debug\Morzekodolo.pdb
